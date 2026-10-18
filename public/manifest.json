@@ -1,0 +1,16 @@
+{
+  "name": "Aetheria: Lost Runes - Adventure & Puzzle",
+  "short_name": "Aetheria",
+  "description": "Game petualangan teka-teki open-world tanpa game over dengan eksplorasi tanpa batas, papan peringkat global, dan mode offline.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='40' fill='%230f172a'/><polygon points='96,28 152,72 130,148 62,148 40,72' stroke='%2338bdf8' stroke-width='8' fill='none'/><circle cx='96' cy='96' r='24' fill='%2338bdf8'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}

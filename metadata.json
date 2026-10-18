@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria: Lost Runes - Adventure & Puzzle",
+  "description": "Game petualangan teka-teki open-world tanpa game over dengan eksplorasi tanpa batas, papan peringkat global, sinkronisasi cloud terenkripsi, integrasi Google AdSense, dan mode offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
